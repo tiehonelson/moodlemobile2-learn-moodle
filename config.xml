@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="ls.org.ledunet" version="1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>LEdunet</name>
+  <name>LEduNet</name>
   <description>Lebone Education Network</description>
   <author href="http://moodle.com" email="mobile@moodle.com">Moodle Mobile team</author>
   <content src="index.html"/>
